@@ -17,13 +17,10 @@ async def start(client, message):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("HELP", callback_data="help_data"),
-                        InlineKeyboardButton("ABOUT", callback_data="about_data"),
+                        InlineKeyboardButton("CHANNEL", url="https://t.me/publicchannalin"),
+                        InlineKeyboardButton("GROUP", url="https://t.me/filmcornermm"),
                     ],
-                    [
-                        InlineKeyboardButton(
-                            "⭕️ JOIN OUR CHANNEL ⭕️", url="https://t.me/TroJanzHEX")
-                    ]
+                    
                 ]
             ),
             reply_to_message_id=message.message_id
@@ -40,13 +37,10 @@ async def help(client, message):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("BACK", callback_data="start_data"),
-                        InlineKeyboardButton("ABOUT", callback_data="about_data"),
+                        InlineKeyboardButton("CHANNEL", url="https://t.me/NAZRIYANAZEEM_BETA"),
+                        InlineKeyboardButton("GROUP", url="https://t.me/NAZRIYANAZEEMBETA "),
                     ],
-                    [
-                        InlineKeyboardButton(
-                            "⭕️ SUPPORT ⭕️", url="https://t.me/TroJanzSupport")
-                    ]
+                    
                 ]
             ),
             reply_to_message_id=message.message_id
@@ -63,13 +57,10 @@ async def about(client, message):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("BACK", callback_data="help_data"),
-                        InlineKeyboardButton("START", callback_data="start_data"),
+                        InlineKeyboardButton("CHANNEL", url="https://t.me/NAZRIYANAZEEM_BETA"),
+                        InlineKeyboardButton("GROUP", url="https://t.me/NAZRIYANAZEEMBETA"),
                     ],
-                    [
-                        InlineKeyboardButton(
-                            "SOURCE CODE", url="https://github.com/TroJanzHEX/Auto-Filter-Bot-V2")
-                    ]
+                    
                 ]
             ),
             reply_to_message_id=message.message_id
