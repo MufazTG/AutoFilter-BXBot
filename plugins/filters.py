@@ -182,8 +182,8 @@ async def cb_handler(client: Bot, query: CallbackQuery):
         elif query.data == "help_data":
             await query.answer()
             keyboard = InlineKeyboardMarkup([
-                [InlineKeyboardButton("CHANNEL", url="https://t.me/NAZRIYANAZEEM_BETA"),
-                    InlineKeyboardButton("GROUP", url="https://t.me/NAZRIYANAZEEMBETA")],
+                [InlineKeyboardButton("CHANNEL", url="https://t.me/NN_NAZRIYANAZEEM_BETA"),
+                    InlineKeyboardButton("GROUP", url="https://t.me/NN_NAZRIYANAZEEMBETA")],
                 
             ])
 
@@ -198,7 +198,7 @@ async def cb_handler(client: Bot, query: CallbackQuery):
             await query.answer()
             keyboard = InlineKeyboardMarkup([
                 [InlineKeyboardButton("CHANNEL", url="https://t.me/NAZRIYANAZEEM_BETA"),
-                    InlineKeyboardButton("GROUP", url="https://t.me/NAZRIYANAZEEMBETA")],
+                    InlineKeyboardButton("GROUP", url="https://t.me/NN_NAZRIYANAZEEMBETA")],
 
             ])
 
