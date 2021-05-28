@@ -7,7 +7,7 @@ class script(object):
 """
 
 
-    HELP_MSG = """
+    HELP_MSG = """hmm... 
     എനിക്ക് നിൻ്റെ സഹായം ഒന്നും വേണ്ട അവൻ സഹായം ചോയിച്ച് വന്നേക്കണ്🐔🐔.. 
 """
 
@@ -18,6 +18,6 @@ class script(object):
 🛡️<b> മൂവീചാനൽ :</b> <a href='https://t.me/publicchannalin'>CLICK TO JOIN</a> 
 
 
-  ❣️JOIN @NAZRIYANAZEEM_BETA❣️
+❣️JOIN @NN_NAZRIYANAZEEM_BETA💕❣️
 
 """
