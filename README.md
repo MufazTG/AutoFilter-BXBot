@@ -12,15 +12,15 @@
 
   </a>
   
-  <a href="https://github.com/TroJanzHEX/Auto-Filter-Bot-V2/fork">
+  <a href="https://github.com/MufazTG/AutoFilter-BXBot/fork">
     <img src="https://img.shields.io/github/forks/TroJanzHEX/Auto-Filter-Bot-V2?label=Fork&style=social">
 
   </a>  
 </p>
 
-[![TroJanz](https://img.shields.io/badge/TroJanzHEX-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/TroJanzHEX)  
+[![TroJanz](https://img.shields.io/badge/BX_Botz-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/Bx_Botz)  
 ㅤㅤㅤㅤㅤㅤㅤ  
-[![TroJanz](https://img.shields.io/badge/TroJanzHEX-Support-red?style=flat&logo=telegram)](https://telegram.dog/TroJanzSupport)  [![TroJanz](https://img.shields.io/badge/TroJanzHEX-Website-red?style=flat&logo=CodersRank)](https://TroJanzHEX.me)  
+[![TroJanz](https://img.shields.io/badge/BxSupport-Support-red?style=flat&logo=telegram)](https://telegram.dog/BxSupport)  [![TroJanz](https://img.shields.io/badge/TroJanzHEX-Website-red?style=flat&logo=CodersRank)](https://TroJanzHEX.me)  
 ㅤㅤㅤㅤㅤㅤㅤ  
 [![MIT license](https://img.shields.io/badge/License-MIT-blue?style=flat)](https://github.com/TroJanzHEX/Auto-Filter-Bot-V2/blob/main/LICENSE)  [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/TroJanzHEX/Auto-Filter-Bot-V2)
 
